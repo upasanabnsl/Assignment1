@@ -1,0 +1,14 @@
+# Install tree
+brew "tree"
+# Install git
+brew "git"
+# Install ansible
+brew "ansible"
+# Install java
+cask "java" 
+# Install maven
+brew "maven"
+# Install gradle
+brew "gradle"
+# Install gh
+brew "gh"
